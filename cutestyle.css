@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+h1 {
+     font-family: "Caveat";
+     text-align: center;
+     color: #ff466b;
+     text-shadow: 2px 2px 4px #aaa;
+     transition: text-shadow 500ms, background 500ms;
+}
+
+h1:hover {
+  text-shadow: 10px 10px 8px #aaa;
+  color: lavenderblush;
+}
+
+h4 {
+  font-family: "Caveat";
+  text-align: center;
+  border: 1px solid purple;
+  width: 120px;
+  height: 45px;
+  margin: 30px;
+  padding: 5px;
+  background-color: hotpink;
+}
+
+h4:hover {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+aside {
+  width: 70%;
+  text-align: justify;
+  float: right;
+}
+article {
+  border: 2px solid purple;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 30px;
+  padding-bottom: 55px;
+  margin: 30px;
+  font-size: 30px;
+  box-shadow: 2px 2px 6px;
+  transition: box-shadow 500ms, background 500ms;
+}
+article:hover {
+  box-shadow: 5px 5px 20px -1px;
+  background: mistyrose;
+}
+
+body {
+      background-color: pink;
+      font-family: "Indie Flower";
+
+      font-size: 35px;
+}
