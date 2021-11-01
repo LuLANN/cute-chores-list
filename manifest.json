@@ -3,7 +3,7 @@
   "description": "Make your chores seem aesthetically pleasing!",
   "version": "1.0",
   "manifest_version": 3,
-  "permissions": ["storage"],
+  "permissions": [],
   "action": {
     "default_popup": "index.html",
     "default_icon": {
